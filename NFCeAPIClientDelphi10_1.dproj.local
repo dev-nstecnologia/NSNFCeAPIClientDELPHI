@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/09/12 09:53:02.000.682,=C:\Users\marcelo.bastos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/09/12 09:53:38.000.763,C:\Users\marcelo.bastos\Desktop\Marcelo\ExemplosAPI\Exemplos Síncrono\NFCeAPIClientDelphi10_1-master\principal.dfm=C:\Users\marcelo.bastos\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2018/09/12 09:53:38.000.763,C:\Users\marcelo.bastos\Desktop\Marcelo\ExemplosAPI\Exemplos Síncrono\NFCeAPIClientDelphi10_1-master\principal.pas=C:\Users\marcelo.bastos\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/09/12 09:53:58.000.549,C:\Users\marcelo.bastos\Desktop\Marcelo\ExemplosAPI\Exemplos Síncrono\NFCeAPIClientDelphi10_1-master\NFCeAPIClientDelphi10_1.dproj=C:\Users\marcelo.bastos\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2018/09/12 10:31:46.000.536,=C:\Users\marcelo.bastos\Desktop\Marcelo\ExemplosAPI\Exemplos Síncrono\NFCeAPIClientDelphi10_1-master\Unit1.pas</Transaction>
+    <Transaction>2018/09/12 10:31:56.000.536,C:\Users\marcelo.bastos\Desktop\Marcelo\ExemplosAPI\Exemplos Síncrono\NFCeAPIClientDelphi10_1-master\Unit1.pas=C:\Users\marcelo.bastos\Desktop\Marcelo\ExemplosAPI\Exemplos Síncrono\NFCeAPIClientDelphi10_1-master\NFCeAPI.pas</Transaction>
+  </Transactions>
+</BorlandProject>
